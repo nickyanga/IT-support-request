@@ -113,9 +113,5 @@ IT-support-request/
 
 **Timestamps are wrong?**
 
-- The backend automatically uses Singapore timezone (Asia/Singapore)
 - Check your browser's local time settings if testing locally
-
-## License
-
-[Add your license here if applicable]
+- The backend automatically uses Singapore timezone (Asia/Singapore)
